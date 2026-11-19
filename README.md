@@ -2,7 +2,7 @@
 
 **Author:** Madhumita Maan
 **Roll No.:** 24020570008  
-**Course:** Machine Learning (CSA), B.Sc. (Hons.) Computer Science, Semester VI  
+**Course:** Machine Learning (CSA), B.Sc. (Hons.) Computer Science, Semester V
 **Institution:** Ramanujan College, University of Delhi  
 **Allotted Problem:** Problem No. 40
 
