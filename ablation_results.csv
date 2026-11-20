@@ -1,6 +1,0 @@
-setting,test_acc,test_f1,test_auc,cv_f1
-"Logistic Reg. (All features, winsorised)",0.86,0.906,0.949,0.904
-Logistic Reg. (No winsorisation),0.86,0.906,0.949,0.903
-Logistic Reg. (PCA 95% variance),0.86,0.906,0.949,0.904
-"k-NN (All features, winsorised)",0.837,0.889,0.895,0.901
-k-NN (PCA 95% variance),0.837,0.889,0.895,0.901
