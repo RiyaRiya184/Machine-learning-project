@@ -1,0 +1,82 @@
+[
+  {
+    "model": "Dummy (Most Frequent)",
+    "best_params": {
+      "strategy": "most_frequent"
+    }
+  },
+  {
+    "model": "Logistic Regression",
+    "best_params": {
+      "C": 0.1,
+      "class_weight": null
+    }
+  },
+  {
+    "model": "Gaussian Naive Bayes",
+    "best_params": {
+      "var_smoothing": 1e-09
+    }
+  },
+  {
+    "model": "Decision Tree",
+    "best_params": {
+      "class_weight": null,
+      "max_depth": 3,
+      "min_samples_leaf": 2
+    }
+  },
+  {
+    "model": "k-NN",
+    "best_params": {
+      "n_neighbors": 11,
+      "weights": "distance"
+    }
+  },
+  {
+    "model": "SVM (RBF)",
+    "best_params": {
+      "C": 1.0,
+      "class_weight": null
+    }
+  },
+  {
+    "model": "MLP (64-32)",
+    "best_params": {
+      "alpha": 1.0
+    }
+  },
+  {
+    "model": "Ridge Reg.",
+    "best_params": {
+      "alpha": 100.0
+    }
+  },
+  {
+    "model": "Lasso Reg.",
+    "best_params": {
+      "alpha": 5000.0
+    }
+  },
+  {
+    "model": "Decision Tree (reg.)",
+    "best_params": {
+      "max_depth": 3,
+      "min_samples_leaf": 5
+    }
+  },
+  {
+    "model": "k-NN (reg.)",
+    "best_params": {
+      "n_neighbors": 11,
+      "weights": "distance"
+    }
+  },
+  {
+    "model": "SVR (RBF)",
+    "best_params": {
+      "C": 10000.0,
+      "epsilon": 1000.0
+    }
+  }
+]
